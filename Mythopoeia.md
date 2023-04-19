@@ -13,7 +13,8 @@
 ---
 **genre:** mythic adult horror
 
-**themes**: || fate/destiny || unhealthy relationships || rumor & perception || power & corruption ||
+**themes**: 
+|| fate/destiny || unhealthy relationships || rumor & perception || power & corruption ||
 
 **authors**: || REDACTED || Respite&Nepenthe ||
 

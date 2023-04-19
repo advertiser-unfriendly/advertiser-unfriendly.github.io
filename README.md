@@ -12,7 +12,7 @@ Hello World, Nepenthe here! I'm a Level 20+ Human multiclassing in data analytic
 ---
 ## New Hobbies & Finished Works
 
->♡[instagram](https://instagram.com/romanticizedacademic)
+>♡[dev blog](https://advertiser-unfriendly.tumblr.com)
 
 >♡ [itch](https://itch.io/advertiser-unfriendly)
 

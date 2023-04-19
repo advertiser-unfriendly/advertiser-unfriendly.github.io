@@ -1,7 +1,7 @@
 # Welcome to The Advertiser Unfriendly Art Collective
 
 ![Header Banner Image](https://64.media.tumblr.com/e1062345df5666cfbb0d8e52ec7115cf/c94063325ded659d-36/s2048x3072/12f9d1f873c511f796ba2ddc9d4831c12275c90b.png)
-### warning: site under major construction. pardon the mess.
+### site last updated: April 19, 2023
 ---
 ## Mission Statement
 *Advertiser Unfriendly* is an anti-monetization, anti-advertisement, anti-profit art gallery dedicated to providing free, queer, joyful art to the world. In an (American) society which pushes for side hustles and monetization of hobbies, commercialization of artistic expression, and conformity under censorship, the creator behind this collective decided to leverage their privilege under capitalism and create free art. Financial security through a day job means there will never be any paywalls to the art produced by this collective.
@@ -10,7 +10,13 @@
 Hello World, Nepenthe here! I'm a Level 20+ Human multiclassing in data analytics, genre fiction writing, literary analysis, physics research, graphic design, and zinemaking.
 
 ---
-## New Hobbies & Finished Works
+
+---
+## Projects
+♡ [The Hallowed Novels](https://advertiser-unfriendly.github.io/Mythopoeia)
+---
+
+## Socials
 
 >♡[dev blog](https://advertiser-unfriendly.tumblr.com)
 

@@ -12,8 +12,10 @@ Hello World, Nepenthe here! I'm a Level 20+ Human multiclassing in data analytic
 ---
 
 ---
+
 ## Projects
 ♡ [The Hallowed Novels](https://advertiser-unfriendly.github.io/Mythopoeia)
+
 ---
 
 ## Socials

@@ -1,5 +1,11 @@
-# The Hallowed Novels
+# The Hallowed Series
 ---
+
+♡ Hallowed
+♡ Book 2 (Untitled)
+♡ Book 3 (Untitled)
+♡ Book 4 (Untitled)
+
 ---
 check back later for more links to projects in progress!
 ---

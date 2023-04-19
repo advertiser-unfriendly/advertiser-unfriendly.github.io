@@ -11,7 +11,7 @@
 ---
 ### At a Glance
 ---
-**genre:** mythic adult horror
+**genre:** || mythic adult horror ||
 
 **themes**: 
 || fate/destiny || unhealthy relationships || rumor & perception || power & corruption ||

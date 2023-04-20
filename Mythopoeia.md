@@ -3,7 +3,7 @@
 
 **themes**:  fate/destiny, unhealthy relationships, rumors, reputation, power, corruption, control, intergenerational trauma
 
-**authors**:  REDACTED, Respite&Nepenthe
+**authors**:  Ridley, Respite, Nepenthe
 
 **publisher**: The Advertiser Unfriendly Art Collective
 

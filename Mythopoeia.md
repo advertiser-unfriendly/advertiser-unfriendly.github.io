@@ -1,34 +1,26 @@
-# The Hallowed Series
+# The "Hallowed" Novels
+**genre:** mythic adult horror
 
+**themes**:  fate/destiny, unhealthy relationships, rumors, reputation, power, corruption, control, intergenerational trauma
 
----
+**authors**:  REDACTED, Respite&Nepenthe
 
-*note: the site itself is still under heavy construction but all "heart" bullet points will eventually link to pages full of writing and (in some cases) art*
-
----
-
-
----
-### At a Glance
----
-**genre:** || mythic adult horror ||
-
-**themes**: 
-|| fate/destiny || unhealthy relationships || rumor & perception || power & corruption ||
-
-**authors**: || REDACTED || Respite&Nepenthe ||
-
+**publisher**: The Advertiser Unfriendly Art Collective
 
 ---
-### Books
+### Start Reading Here!
 ---
-♡ Hallowed
+♡ [Hallowed](https://advertiser-unfriendly.com/Book1)
+	- status: drafting, active
 
 ♡ Book 2 (Untitled)
+	- *status: outlined, holding*
 
 ♡ Book 3 (Untitled)
+	- *status: holding*
 
 ♡ Book 4 (Untitled)
+	- *status: holding*
 
 ---
 ### Worldbuilding

@@ -22,7 +22,7 @@ Hello World, Nepenthe here! I'm a Level 20+ Human multiclassing in data analytic
 
 >♡[dev blog](https://advertiser-unfriendly.tumblr.com)
 
->♡ [itch](https://itch.io/advertiser-unfriendly)
+>♡ [itch](https://advertiser-unfriendly.itch.io/)
 
 ---
 check back later for more links to projects in progress!

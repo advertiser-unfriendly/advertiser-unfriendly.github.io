@@ -10,7 +10,7 @@
 ---
 
 ## AU Publications
-♡ [The Hallowed Novels](https://advertiser-unfriendly.github.io/Hallowed)
+♡ [The Hallowed Novels](https://advertiser-unfriendly.github.io/hallowed/Hallowed)
 
 ♡ [Zines](https://advertiser-unfriendly.itch.io/)
 

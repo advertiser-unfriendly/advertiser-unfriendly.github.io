@@ -5,7 +5,7 @@ TOC: yes
 
 # Table of Contents
 ## Part I
-- [Faithful, Who Is Not Where They Once Were](/ch1.md)
+- [Faithful, Who Is Not Where They Once Were](/1)
 - Dinner, Whence Faithful Returns
 -  Home, Where Sprocket Escorts Faithful
 - Sable, Who Is Not What He Once Was

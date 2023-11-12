@@ -5,7 +5,7 @@
 **themes**:  fate/destiny, unhealthy relationships, rumors, reputation, power, corruption, control, intergenerational trauma
 
 **authors**:  Ridley, Respite & Nepente
-	- [meet the authors!](https://advertiser-unfriendly.com/HallowedAuthors.md)
+	- [meet the authors!](https://advertiser-unfriendly.com/hallowed/HallowedAuthors)
 
 **publisher**: AU Publications
 
@@ -15,7 +15,7 @@
 ## Novels
 ---
 
-♡ [Hallowed](https://advertiser-unfriendly.com/HallowedTOC.md)
+♡ [Hallowed](https://advertiser-unfriendly.com/hallowed/book1/TOC)
 	- status: drafting, active
 
 ♡ Book 2 (Untitled)

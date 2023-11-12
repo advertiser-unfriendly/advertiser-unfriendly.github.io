@@ -1,37 +1,46 @@
-# Table of Contents
-## Part I
-- *Faithful, Who Is Not Where They Once Were*
-- *Dinner, Where Faithful Returns*
--  *Home, Where Sprocket Escorts Faithful*
-- *Sable, Who Is Not What He Once Was*
 
-## Part II
-- *Faithful, Who Is Dead No Longer*
-- Vervain, and His Wyrd Sister, Spring
-- ~~The Wyrd Siblings Accompany Their Prophet-To-Be~~
-- ~~The Savecki House~~
-- Brunch, Attended by a Wyrd, a Prophet, and Morey
-- ~~Wishweave, Which Is Not What It Ever Was~~
-## Part III
-- Wyrd Arguments
-- ~~placeholder 1~~
-- ~~placeholder 2~~
-- ~~placeholder 3~~
-- ~~placeholder 4~~
-## Part IV
-- ~~placeholder 5~~
-- ~~placeholder 6~~
-- **A Wyrd Dream, Recounted to Vervain*
-- *The Sunflower House*
+# The "Hallowed" Series
+**genre:** mythic adult horror
+
+**themes**:  fate/destiny, unhealthy relationships, rumors, reputation, power, corruption, control, intergenerational trauma
+
+**authors**:  Ridley, Respite & Nepenthe
+	- [meet the authors!]({%link _hallowed1/Hallowed-Authors % })
+
+**publisher**: AU Publications
+
+**short code**: Hallowed!Verse
 
 ---
-LEGEND:
+## Novels
+---
+♡ [Hallowed]({%link _hallowed1/Hallowed-TOC % })
+	- status: drafting, active
 
-***complete***
+♡ Book 2 (Untitled)
+	- *status: outlined, holding*
 
-*drafted*
+♡ Book 3 (Untitled)
+	- *status: holding*
 
-outlined
+♡ Book 4 (Untitled)
+	- *status: holding*
 
-~~incomplete~~
+---
+## Worldbuilding/Lore
+---
+♡ The Hallowed Halls (pantheon)
 
+♡ Hearsay (language)
+
+♡ Wishweave (mechanics)
+
+♡ Immortality (mechanics)
+
+♡ Lords, Ladies, & Lands (mechanics)
+
+♡ ... and more to come!
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hallowed!Verse</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://advertiser-unfriendly.github.io" property="cc:attributionName" rel="cc:attributionURL">AU Publications</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.<br />

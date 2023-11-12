@@ -14,7 +14,7 @@
 ---
 ## Novels
 ---
-♡ [Hallowed](https://advertiser-unfriendly.com/Hallowed)
+♡ [Hallowed](https://advertiser-unfriendly.com/Hallowed-TOC)
 	- status: drafting, active
 
 ♡ Book 2 (Untitled)

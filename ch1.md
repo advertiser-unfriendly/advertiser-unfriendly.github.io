@@ -1,6 +1,8 @@
 ---
 title:  "Faithful, Who Is Not Where They Once Were"
 date: 2023-11-11
+chapter: 1
+Hallowed: 1
 ---
 Faithful only realized just how lost in thought they'd become when they tumbled nearly head over heel over a gravestone. No, it wasn't really a gravestone, was it? Caught underfoot, either way. Faithful pauses in their stride, chest rising and falling in time with a jackhammering heart. Gravestones are tangible, solid items. They hold weight, they signify a specific intent on behalf of those surviving the deceased. As Faithful steps back, unsettled, the monument not meant for memory or honor warps and vacillates at their feet. A smear across their vision, never resolving, never fading. A vision unclear even as Faithful squints hard at the object. Was it even an object at all? It is a smudging of paint and charcoal across what might have been grass... but, no. Faithful mourns the assumptive solidity of the surface texture under their sneakers. Paying too close attention, now, they see it is not grass. Not even plastic grass.
 

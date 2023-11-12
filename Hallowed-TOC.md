@@ -1,3 +1,8 @@
+---
+Hallowed: 1
+TOC: yes
+---
+
 # Table of Contents
 ## Part I
 - [Faithful, Who Is Not Where They Once Were](/_hallowed1/ch1.md)

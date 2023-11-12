@@ -1,6 +1,6 @@
 # Table of Contents
 ## Part I
-- [Faithful, Who Is Not Where They Once Were]( {%link _hallowed1/ch1.md %} )
+- [Faithful, Who Is Not Where They Once Were](https://advertiser-unfriendly.com/_hallowed1/ch1.md)
 - Dinner, Whence Faithful Returns
 -  Home, Where Sprocket Escorts Faithful
 - Sable, Who Is Not What He Once Was

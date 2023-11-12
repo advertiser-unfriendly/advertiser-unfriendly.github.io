@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Faithful, Who Is Not Where They Once Were"
 date: 2023-11-11
 ---

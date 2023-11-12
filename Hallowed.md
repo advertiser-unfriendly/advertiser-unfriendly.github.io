@@ -4,12 +4,8 @@
 
 **themes**:  fate/destiny, unhealthy relationships, rumors, reputation, power, corruption, control, intergenerational trauma
 
-**authors**:  Ridley, Respite & Nepenthe
-<<<<<<< HEAD
-	- [meet the authors!](/Hallowed-Authors)
-=======
-	- [meet the authors!]({%link _hallowed1/Hallowed-Authors % })
->>>>>>> 28e46ab81adcd0b8791c88b33865bd52220c9f33
+**authors**:  Ridley, Respite & Nepente
+	- [meet the authors!]({ %link _hallowed1/Hallowed-Authors % })
 
 **publisher**: AU Publications
 
@@ -18,11 +14,8 @@
 ---
 ## Novels
 ---
-<<<<<<< HEAD
-♡ [Hallowed](https://advertiser-unfriendly.com/Hallowed-TOC)
-=======
-♡ [Hallowed]({%link _hallowed1/Hallowed-TOC % })
->>>>>>> 28e46ab81adcd0b8791c88b33865bd52220c9f33
+
+♡ [Hallowed]({{%link _hallowed1/Hallowed-TOC % }})
 	- status: drafting, active
 
 ♡ Book 2 (Untitled)

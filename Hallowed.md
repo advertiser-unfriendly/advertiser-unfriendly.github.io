@@ -15,7 +15,7 @@
 ## Novels
 ---
 
-♡ [Hallowed](/hallowed1/Hallowed-TOC.md)
+♡ [Hallowed](/_hallowed1/Hallowed-TOC.md)
 	- status: drafting, active
 
 ♡ Book 2 (Untitled)

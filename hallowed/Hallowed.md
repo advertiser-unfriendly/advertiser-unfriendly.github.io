@@ -4,8 +4,7 @@
 
 **themes**:  fate/destiny, unhealthy relationships, rumors, reputation, power, corruption, control, intergenerational trauma
 
-**authors**:  Ridley, Respite & Nepente
-	- [meet the authors!](https://advertiser-unfriendly.com/hallowed/HallowedAuthors)
+**authors**:  Nepenthe
 
 **publisher**: AU Publications
 

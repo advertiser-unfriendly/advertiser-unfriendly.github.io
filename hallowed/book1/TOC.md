@@ -5,24 +5,20 @@ TOC: yes
 
 # Table of Contents
 ## Part I
-- [Faithful, Who Is Not Where They Once Were](https://advertiser-unfriendly.com/hallowed/book1/1)
-- Dinner, Whence Faithful Returns
--  Home, Where Sprocket Escorts Faithful
+- [You, Who Are Not Where You Once Were](https://advertiser-unfriendly.com/hallowed/book1/1)
 - Sable, Who Is Not What He Once Was
+- Sprocket, Who Is Not Where He Ought To be
+- Spring, Who Is Nowhere to be Found
 
 ## Part II
-- Faithful, Who Is Dead No Longer
-- Always Rosemary, Never Vervain
-- Savecki's Place, A Full House
-- Brunch, A Less Rare Occurrence Than One Might Expect
+UNDER RECONSTRUCTION
 ## Part III
 - Wishweave, Which Is Not What It Ever Was
-- Faithful, Prophet, Weaver
-- Savecki's Place, Twice Over
-- Faithful Composes the First Wishing Song
+UNDER RECONSTRUCTION
+
 ## Part IV
 - Rosemary, The Oracle, and Delphi
 - The Sunflower House
-- A Dream, Recounted by Vervain
+- A Dream, Recounted
 ---
 end of Book 1
